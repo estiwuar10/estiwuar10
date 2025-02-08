@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">¡Hola! Soy Estiwuar, un apasionado desarrollador web, listo para dejar huella...</h2>
 
 ###
 
@@ -47,3 +47,4 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
